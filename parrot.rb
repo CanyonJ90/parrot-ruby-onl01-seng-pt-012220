@@ -2,9 +2,9 @@
 
 require "pry"
 
-def parrot(phrase= "Squawk!")
-  puts phrase
-  return phrase
+def parrot(arg= "Squawk!")
+  puts arg
+  return arg
 end
 
 
