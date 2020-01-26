@@ -1,6 +1,6 @@
 #parrot_method
 
-require "pry"
+require 'pry'
 
 def parrot(arg= "Squawk!")
   puts arg
