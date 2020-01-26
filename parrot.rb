@@ -1,4 +1,9 @@
-parot_method
-def parot(language ="Squawk!")
-  puts "the bird speaks in {language}."
+#parrot_method
+def parrot(phrase = "Squawk!")
+  puts "Squawk!"
+end
+
+
+def parrot(phrase = "Squawk!")
+ puts "Squawk!"
 end
