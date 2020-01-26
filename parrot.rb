@@ -1,4 +1,4 @@
 #parrot_method
-def parrot(phrase = "Squawk!")
-  puts "Squawk!"
+def parrot(arg= "Squawk!")
+  
 end
