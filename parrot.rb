@@ -8,4 +8,3 @@ def parrot(arg= "Squawk!")
 end
 
 
-binding.pry
